@@ -29,24 +29,25 @@ L'inscription est **libre et gratuite** sur [codecrafted.fr](https://codecrafted
 
 Publiez vos clichés du ciel profond — la plateforme se charge du reste.
 
-**Vos objets célestes sont identifiés automatiquement.** À partir de l'image seule, sans coordonnées ni métadonnées à renseigner, le champ photographié est analysé, les objets qu'il contient sont reconnus, nommés et décrits **dans votre langue** : galaxies, nébuleuses, amas, étoiles.
+**Vos objets célestes sont identifiés automatiquement.** À partir de l'image seule, sans coordonnées ni métadonnées à renseigner, le champ photographié est analysé, les objets qu'il contient sont reconnus, nommés et décrits : galaxies, nébuleuses, amas, étoiles.
 
-- 🎯 **Identification automatique** des objets présents sur vos photos
-- 📖 **Fiches enrichies** par les grands catalogues astronomiques de référence
+- 🎯 **Identification automatique** des objets de votre champ, recherchés parmi **près de 157 millions d'objets** référencés
+- 📖 **Fiches enrichies** par 23 catalogues astronomiques de référence — Messier, NGC/IC, Caldwell, Gaia DR3, Hipparcos, Tycho-2, Sharpless, Barnard, Arp, Abell…
+- 🔬 **226 types d'objets** reconnus, du quasar à la nébuleuse planétaire
 - 🌤️ **Conditions d'observation en temps réel** — météo, score astronomique, phase lunaire, crépuscules et heures d'obscurité totale, passages ISS, alertes aurores boréales
 - 🖼️ **Galerie & communauté** — likes, commentaires, notations, classements
-- 📷 **Métadonnées EXIF** et matériel associés à chaque cliché
+- 📷 **Fiche technique complète** — temps de pose, ISO, focale, télescope, monture, caméra et filtres, seeing, transparence et pollution lumineuse
 
 <br>
 
 ### 🎣 Pêche
 
-Un carnet de bord vivant pour vos sorties.
+Une galerie vivante pour vos prises et vos sorties.
 
-- 🐟 **Prises & espèces** — galerie, journal de sessions, statistiques personnelles
-- 🌊 **Conditions de pêche** — score global calculé à partir de la météo, du vent, de la pression, de la température de l'eau et des marées, avec recommandations et meilleurs créneaux
-- 🗺️ **Spots et techniques** — eau douce comme eau de mer
-- 🏅 **Communauté & défis** — classements, comparaisons, partage entre pêcheurs
+- 🐟 **Vos prises en détail** — espèce, poids, taille, no-kill, technique employée (surfcasting, mouche, spinning, carpe, carnassier…), matériel et conditions du moment
+- 🌊 **Conditions de pêche en temps réel** — un score global calculé à partir de la météo, du vent, de la pression, de la température de l'eau et des marées, assorti de recommandations et des meilleurs créneaux
+- 💧 **Mer, eau douce ou saumâtre** — température, clarté, profondeur et courant relevés pour chaque session
+- 🏅 **Communauté** — galerie, likes, commentaires, notations et classements
 
 <br>
 
@@ -56,9 +57,11 @@ Amitiés, messagerie instantanée, notifications, invitations : un seul compte, 
 
 <br>
 
-### 🏆 104 trophées
+### 🏆 126 trophées
 
-De la première photo publiée aux exploits les plus confidentiels, **104 trophées répartis sur 6 niveaux de rareté** — de *Common* à *Secret* — se débloquent automatiquement au fil de votre progression. 64 côté astrophotographie, 40 côté pêche.
+De la première photo publiée aux exploits les plus confidentiels, **126 trophées répartis sur 5 niveaux de rareté** — de *Common* à *Legendary* — se débloquent automatiquement au fil de votre progression : 81 côté astrophotographie, 45 côté pêche.
+
+Et parmi eux, **24 trophées cachés ou secrets** dont l'intitulé ne se dévoile qu'une fois décroché.
 
 ---
 
@@ -95,10 +98,12 @@ Chaque service vit dans son propre dépôt, agrégés par un monorepo d'orchestr
 
 | | |
 |---|---|
-| 🏆 Trophées | **104** sur 6 raretés |
-| 🌌 Catalogues astronomiques | **9** — plus de 10 000 objets référencés |
-| 🌍 Objets traduits | **10 langues** |
-| ✅ Tests automatisés | **2 351**, tous au vert |
+| 🌌 Objets célestes indexés | **156 993 626** |
+| 📚 Catalogues astronomiques | **23** |
+| 🔬 Types d'objets reconnus | **226** |
+| 🏆 Trophées | **126** sur 5 raretés |
+| 🌍 Interface | **français** & **anglais** |
+| ✅ Tests automatisés | **2 349** |
 | 🧩 Services conteneurisés | **7** |
 
 ---
