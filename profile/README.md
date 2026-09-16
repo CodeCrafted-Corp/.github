@@ -69,7 +69,7 @@ Et parmi eux, **24 trophées cachés ou secrets** dont l'intitulé ne se dévoil
 
 Une architecture **microservices conteneurisée**, pensée pour que chaque brique évolue à son rythme :
 
-| | |
+| Brique | Rôle |
 |---|---|
 | 🖥️ **Application web** | Interface publique en rendu serveur, multilingue, responsive |
 | ⚙️ **API** | Cœur métier : comptes, contenus, social, trophées, temps réel |
@@ -96,7 +96,7 @@ Chaque service vit dans son propre dépôt, agrégés par un monorepo d'orchestr
 
 ## En quelques chiffres
 
-| | |
+| Indicateur | Valeur |
 |---|---|
 | 🌌 Objets célestes indexés | **156 993 626** |
 | 📚 Catalogues astronomiques | **23** |
